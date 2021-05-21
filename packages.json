@@ -1,0 +1,34 @@
+[
+    {
+        "package": "fnmate",
+        "url": "https://github.com/milesmcbain/fnmate",
+    },
+    {
+        "package": "breakerofchains",
+        "url": "https://github.com/milesmcbain/breakerofchains",
+    },
+    {
+        "package": "datapasta",
+        "url": "https://github.com/milesmcbain/datapasta",
+    },
+    {
+        "package": "slippymath",
+        "url": "https://github.com/milesmcbain/slippymath",
+    },
+    {
+        "package": "capsule",
+        "url": "https://github.com/milesmcbain/capsule",
+    },
+    {
+        "package": "dflow",
+        "url": "https://github.com/milesmcbain/dflow",
+    },
+    {
+        "package": "tflow",
+        "url": "https://github.com/milesmcbain/tflow",
+    },
+    {
+        "package": "inlegend",
+        "url": "https://github.com/milesmcbain/inlegend",
+    },
+]
