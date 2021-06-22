@@ -15,6 +15,11 @@
         "branch": "master"
     },
     {
+        "package": "rmdocs",
+        "url": "https://github.com/milesmcbain/rmdocs",
+        "branch": "main"
+    },
+    {
         "package": "slippymath",
         "url": "https://github.com/milesmcbain/slippymath",
         "branch": "master"
