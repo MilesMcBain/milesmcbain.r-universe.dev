@@ -1,5 +1,10 @@
 [
     {
+        "package": "paint",
+        "url": "https://github.com/milesmcbain/paint",
+        "branch": "master" 
+    },
+    {
         "package": "fnmate",
         "url": "https://github.com/milesmcbain/fnmate",
         "branch": "master"
