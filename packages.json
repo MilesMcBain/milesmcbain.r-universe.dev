@@ -2,7 +2,7 @@
     {
         "package": "paint",
         "url": "https://github.com/milesmcbain/paint",
-        "branch": "master" 
+        "branch": "*release" 
     },
     {
         "package": "fnmate",
