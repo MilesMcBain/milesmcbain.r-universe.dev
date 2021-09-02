@@ -48,5 +48,10 @@
         "package": "inlegend",
         "url": "https://github.com/milesmcbain/inlegend",
         "branch": "master"
+    },
+    {
+        "package": "atcursor",
+        "url": "https://github.com/milesmcbain/atcursor",
+        "branch": "main" 
     }
 ]
