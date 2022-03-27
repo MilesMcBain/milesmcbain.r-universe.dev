@@ -53,5 +53,10 @@
         "package": "atcursor",
         "url": "https://github.com/milesmcbain/atcursor",
         "branch": "main" 
+    },
+    {
+        "package": "mvtview",
+        "url": "https://github.com/milesmcbain/mvtview",
+        "branch": "main"
     }
 ]
