@@ -58,5 +58,11 @@
         "package": "mvtview",
         "url": "https://github.com/milesmcbain/mvtview",
         "branch": "main"
+    },
+    {
+        "package": "rdeck.controls",
+        "url": "https://github.com/qfes/rdeck.controls",
+        "branch": "master"
     }
+        
 ]
