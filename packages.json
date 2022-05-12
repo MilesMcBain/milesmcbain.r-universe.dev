@@ -66,7 +66,7 @@
     },
     {
         "package": "testrpkg",
-        "url": "https://github.com/milesmcbain/testrpkg"
+        "url": "https://github.com/milesmcbain/testrpkg",
         "branch": "main"
     }    
 ]
