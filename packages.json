@@ -63,6 +63,10 @@
         "package": "rdeck.controls",
         "url": "https://github.com/qfes/rdeck.controls",
         "branch": "master"
-    }
-        
+    },
+    {
+        "package": "testrpkg",
+        "url": "https://github.com/milesmcbain/testrpkg"
+        "branch": "main"
+    }    
 ]
