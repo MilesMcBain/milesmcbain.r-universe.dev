@@ -68,5 +68,10 @@
         "package": "testrpkg",
         "url": "https://github.com/milesmcbain/testrpkg",
         "branch": "main"
+    },
+        {
+        "package": "rmdgh",
+        "url": "https://github.com/milesmcbain/rmdgh",
+        "branch": "*release"
     }    
 ]
